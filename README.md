@@ -1,0 +1,2 @@
+# ilkrep
+ilk repositori denemesi
